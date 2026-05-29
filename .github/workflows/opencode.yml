@@ -508,7 +508,7 @@ jobs:
           echo "::group::OpenCode automation"
           set +e
           opencode run \
-            --model azure-foundry/gpt-5.4 \
+            --model azure-foundry/FW-MiniMax-M2.5 \
             --agent "${{ steps.route.outputs.agent }}" \
             "$(cat "$prompt_file")" \
             2>&1 | sed -u 's/^/[opencode] /' | tee "$log_file"
