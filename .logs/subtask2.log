@@ -1,0 +1,2253 @@
+[2026-05-29T08:04:25.617Z] Plugin initialized: 0 commands []
+[2026-05-29T08:04:25.643Z] Registered /subtask command
+[2026-05-29T08:04:27.360Z] message-hooks: ENTRY msgCount=2, sessions=ses_18d3ca601ffehNth4wDZFqjlJi
+[2026-05-29T08:04:27.360Z] message-hooks: MESSAGES: [0]user: text:""You are running inside a non-interactiv..." | [1]user: text:"<available-skills>
+Use the use_skill, re..."(syn)
+[2026-05-29T08:04:27.360Z] message-hooks: post-filter, msgCount=2
+[2026-05-29T08:04:27.360Z] message-hooks: about to search for OPENCODE_GENERIC
+[2026-05-29T08:04:27.360Z] message-hooks: searching 2 messages for OPENCODE_GENERIC
+[2026-05-29T08:04:27.360Z] message-hooks: found synthetic text at [1]: "<available-skills>
+Use the use_skill, read_skill_f..." matches=false
+[2026-05-29T08:04:27.360Z] message-hooks: generic search complete, found=false, index=-1
+[2026-05-29T08:04:27.360Z] message-hooks: no generic part found, checking for pending prompt return
+[2026-05-29T08:04:38.614Z] message-hooks: ENTRY msgCount=3, sessions=ses_18d3ca601ffehNth4wDZFqjlJi
+[2026-05-29T08:04:38.614Z] message-hooks: MESSAGES: [0]user: text:""You are running inside a non-interactiv..." | [1]user: text:"<available-skills>
+Use the use_skill, re..."(syn) | [2]assistant: step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch
+[2026-05-29T08:04:38.615Z] message-hooks: post-filter, msgCount=3
+[2026-05-29T08:04:38.615Z] message-hooks: about to search for OPENCODE_GENERIC
+[2026-05-29T08:04:38.615Z] message-hooks: searching 3 messages for OPENCODE_GENERIC
+[2026-05-29T08:04:38.615Z] message-hooks: found synthetic text at [1]: "<available-skills>
+Use the use_skill, read_skill_f..." matches=false
+[2026-05-29T08:04:38.615Z] message-hooks: generic search complete, found=false, index=-1
+[2026-05-29T08:04:38.615Z] message-hooks: no generic part found, checking for pending prompt return
+[2026-05-29T08:06:45.813Z] message-hooks: ENTRY msgCount=4, sessions=ses_18d3ca601ffehNth4wDZFqjlJi
+[2026-05-29T08:06:45.813Z] message-hooks: MESSAGES: [0]user: text:""You are running inside a non-interactiv..." | [1]user: text:"<available-skills>
+Use the use_skill, re..."(syn) | [2]assistant: step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [3]assistant: step-start, step-start, step-start, step-start, step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch
+[2026-05-29T08:06:45.813Z] message-hooks: post-filter, msgCount=4
+[2026-05-29T08:06:45.813Z] message-hooks: about to search for OPENCODE_GENERIC
+[2026-05-29T08:06:45.813Z] message-hooks: searching 4 messages for OPENCODE_GENERIC
+[2026-05-29T08:06:45.813Z] message-hooks: found synthetic text at [1]: "<available-skills>
+Use the use_skill, read_skill_f..." matches=false
+[2026-05-29T08:06:45.813Z] message-hooks: generic search complete, found=false, index=-1
+[2026-05-29T08:06:45.813Z] message-hooks: no generic part found, checking for pending prompt return
+[2026-05-29T08:08:06.519Z] message-hooks: ENTRY msgCount=5, sessions=ses_18d3ca601ffehNth4wDZFqjlJi
+[2026-05-29T08:08:06.519Z] message-hooks: MESSAGES: [0]user: text:""You are running inside a non-interactiv..." | [1]user: text:"<available-skills>
+Use the use_skill, re..."(syn) | [2]assistant: step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [3]assistant: step-start, step-start, step-start, step-start, step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [4]assistant: step-start, step-start, step-start, step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch
+[2026-05-29T08:08:06.519Z] message-hooks: post-filter, msgCount=5
+[2026-05-29T08:08:06.519Z] message-hooks: about to search for OPENCODE_GENERIC
+[2026-05-29T08:08:06.519Z] message-hooks: searching 5 messages for OPENCODE_GENERIC
+[2026-05-29T08:08:06.519Z] message-hooks: found synthetic text at [1]: "<available-skills>
+Use the use_skill, read_skill_f..." matches=false
+[2026-05-29T08:08:06.519Z] message-hooks: generic search complete, found=false, index=-1
+[2026-05-29T08:08:06.519Z] message-hooks: no generic part found, checking for pending prompt return
+[2026-05-29T08:08:19.049Z] message-hooks: ENTRY msgCount=6, sessions=ses_18d3ca601ffehNth4wDZFqjlJi
+[2026-05-29T08:08:19.049Z] message-hooks: MESSAGES: [0]user: text:""You are running inside a non-interactiv..." | [1]user: text:"<available-skills>
+Use the use_skill, re..."(syn) | [2]assistant: step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [3]assistant: step-start, step-start, step-start, step-start, step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [4]assistant: step-start, step-start, step-start, step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [5]assistant: step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch
+[2026-05-29T08:08:19.050Z] message-hooks: post-filter, msgCount=6
+[2026-05-29T08:08:19.050Z] message-hooks: about to search for OPENCODE_GENERIC
+[2026-05-29T08:08:19.050Z] message-hooks: searching 6 messages for OPENCODE_GENERIC
+[2026-05-29T08:08:19.050Z] message-hooks: found synthetic text at [1]: "<available-skills>
+Use the use_skill, read_skill_f..." matches=false
+[2026-05-29T08:08:19.050Z] message-hooks: generic search complete, found=false, index=-1
+[2026-05-29T08:08:19.050Z] message-hooks: no generic part found, checking for pending prompt return
+[2026-05-29T08:08:38.802Z] message-hooks: ENTRY msgCount=7, sessions=ses_18d3ca601ffehNth4wDZFqjlJi
+[2026-05-29T08:08:38.802Z] message-hooks: MESSAGES: [0]user: text:""You are running inside a non-interactiv..." | [1]user: text:"<available-skills>
+Use the use_skill, re..."(syn) | [2]assistant: step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [3]assistant: step-start, step-start, step-start, step-start, step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [4]assistant: step-start, step-start, step-start, step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [5]assistant: step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [6]assistant: step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch
+[2026-05-29T08:08:38.802Z] message-hooks: post-filter, msgCount=7
+[2026-05-29T08:08:38.802Z] message-hooks: about to search for OPENCODE_GENERIC
+[2026-05-29T08:08:38.802Z] message-hooks: searching 7 messages for OPENCODE_GENERIC
+[2026-05-29T08:08:38.802Z] message-hooks: found synthetic text at [1]: "<available-skills>
+Use the use_skill, read_skill_f..." matches=false
+[2026-05-29T08:08:38.802Z] message-hooks: generic search complete, found=false, index=-1
+[2026-05-29T08:08:38.802Z] message-hooks: no generic part found, checking for pending prompt return
+[2026-05-29T08:09:22.551Z] message-hooks: ENTRY msgCount=8, sessions=ses_18d3ca601ffehNth4wDZFqjlJi
+[2026-05-29T08:09:22.551Z] message-hooks: MESSAGES: [0]user: text:""You are running inside a non-interactiv..." | [1]user: text:"<available-skills>
+Use the use_skill, re..."(syn) | [2]assistant: step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [3]assistant: step-start, step-start, step-start, step-start, step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [4]assistant: step-start, step-start, step-start, step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [5]assistant: step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [6]assistant: step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [7]assistant: step-start, step-start, step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch
+[2026-05-29T08:09:22.551Z] message-hooks: post-filter, msgCount=8
+[2026-05-29T08:09:22.551Z] message-hooks: about to search for OPENCODE_GENERIC
+[2026-05-29T08:09:22.551Z] message-hooks: searching 8 messages for OPENCODE_GENERIC
+[2026-05-29T08:09:22.551Z] message-hooks: found synthetic text at [1]: "<available-skills>
+Use the use_skill, read_skill_f..." matches=false
+[2026-05-29T08:09:22.551Z] message-hooks: generic search complete, found=false, index=-1
+[2026-05-29T08:09:22.551Z] message-hooks: no generic part found, checking for pending prompt return
+[2026-05-29T08:09:39.101Z] message-hooks: ENTRY msgCount=9, sessions=ses_18d3ca601ffehNth4wDZFqjlJi
+[2026-05-29T08:09:39.101Z] message-hooks: MESSAGES: [0]user: text:""You are running inside a non-interactiv..." | [1]user: text:"<available-skills>
+Use the use_skill, re..."(syn) | [2]assistant: step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [3]assistant: step-start, step-start, step-start, step-start, step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [4]assistant: step-start, step-start, step-start, step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [5]assistant: step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [6]assistant: step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [7]assistant: step-start, step-start, step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [8]assistant: step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch
+[2026-05-29T08:09:39.101Z] message-hooks: post-filter, msgCount=9
+[2026-05-29T08:09:39.101Z] message-hooks: about to search for OPENCODE_GENERIC
+[2026-05-29T08:09:39.101Z] message-hooks: searching 9 messages for OPENCODE_GENERIC
+[2026-05-29T08:09:39.101Z] message-hooks: found synthetic text at [1]: "<available-skills>
+Use the use_skill, read_skill_f..." matches=false
+[2026-05-29T08:09:39.101Z] message-hooks: generic search complete, found=false, index=-1
+[2026-05-29T08:09:39.101Z] message-hooks: no generic part found, checking for pending prompt return
+[2026-05-29T08:10:26.337Z] message-hooks: ENTRY msgCount=10, sessions=ses_18d3ca601ffehNth4wDZFqjlJi
+[2026-05-29T08:10:26.337Z] message-hooks: MESSAGES: [0]user: text:""You are running inside a non-interactiv..." | [1]user: text:"<available-skills>
+Use the use_skill, re..."(syn) | [2]assistant: step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [3]assistant: step-start, step-start, step-start, step-start, step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [4]assistant: step-start, step-start, step-start, step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [5]assistant: step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [6]assistant: step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [7]assistant: step-start, step-start, step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [8]assistant: step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [9]assistant: step-start, step-start, step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch
+[2026-05-29T08:10:26.337Z] message-hooks: post-filter, msgCount=10
+[2026-05-29T08:10:26.337Z] message-hooks: about to search for OPENCODE_GENERIC
+[2026-05-29T08:10:26.337Z] message-hooks: searching 10 messages for OPENCODE_GENERIC
+[2026-05-29T08:10:26.337Z] message-hooks: found synthetic text at [1]: "<available-skills>
+Use the use_skill, read_skill_f..." matches=false
+[2026-05-29T08:10:26.337Z] message-hooks: generic search complete, found=false, index=-1
+[2026-05-29T08:10:26.337Z] message-hooks: no generic part found, checking for pending prompt return
+[2026-05-29T08:10:40.267Z] message-hooks: ENTRY msgCount=11, sessions=ses_18d3ca601ffehNth4wDZFqjlJi
+[2026-05-29T08:10:40.267Z] message-hooks: MESSAGES: [0]user: text:""You are running inside a non-interactiv..." | [1]user: text:"<available-skills>
+Use the use_skill, re..."(syn) | [2]assistant: step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [3]assistant: step-start, step-start, step-start, step-start, step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [4]assistant: step-start, step-start, step-start, step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [5]assistant: step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [6]assistant: step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [7]assistant: step-start, step-start, step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [8]assistant: step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [9]assistant: step-start, step-start, step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [10]assistant: step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch
+[2026-05-29T08:10:40.267Z] message-hooks: post-filter, msgCount=11
+[2026-05-29T08:10:40.267Z] message-hooks: about to search for OPENCODE_GENERIC
+[2026-05-29T08:10:40.267Z] message-hooks: searching 11 messages for OPENCODE_GENERIC
+[2026-05-29T08:10:40.267Z] message-hooks: found synthetic text at [1]: "<available-skills>
+Use the use_skill, read_skill_f..." matches=false
+[2026-05-29T08:10:40.267Z] message-hooks: generic search complete, found=false, index=-1
+[2026-05-29T08:10:40.267Z] message-hooks: no generic part found, checking for pending prompt return
+[2026-05-29T08:11:23.108Z] message-hooks: ENTRY msgCount=12, sessions=ses_18d3ca601ffehNth4wDZFqjlJi
+[2026-05-29T08:11:23.108Z] message-hooks: MESSAGES: [0]user: text:""You are running inside a non-interactiv..." | [1]user: text:"<available-skills>
+Use the use_skill, re..."(syn) | [2]assistant: step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [3]assistant: step-start, step-start, step-start, step-start, step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [4]assistant: step-start, step-start, step-start, step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [5]assistant: step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [6]assistant: step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [7]assistant: step-start, step-start, step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [8]assistant: step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [9]assistant: step-start, step-start, step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [10]assistant: step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [11]assistant: step-start, step-start, step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch
+[2026-05-29T08:11:23.108Z] message-hooks: post-filter, msgCount=12
+[2026-05-29T08:11:23.108Z] message-hooks: about to search for OPENCODE_GENERIC
+[2026-05-29T08:11:23.108Z] message-hooks: searching 12 messages for OPENCODE_GENERIC
+[2026-05-29T08:11:23.108Z] message-hooks: found synthetic text at [1]: "<available-skills>
+Use the use_skill, read_skill_f..." matches=false
+[2026-05-29T08:11:23.108Z] message-hooks: generic search complete, found=false, index=-1
+[2026-05-29T08:11:23.108Z] message-hooks: no generic part found, checking for pending prompt return
+[2026-05-29T08:12:08.144Z] message-hooks: ENTRY msgCount=13, sessions=ses_18d3ca601ffehNth4wDZFqjlJi
+[2026-05-29T08:12:08.144Z] message-hooks: MESSAGES: [0]user: text:""You are running inside a non-interactiv..." | [1]user: text:"<available-skills>
+Use the use_skill, re..."(syn) | [2]assistant: step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [3]assistant: step-start, step-start, step-start, step-start, step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [4]assistant: step-start, step-start, step-start, step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [5]assistant: step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [6]assistant: step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [7]assistant: step-start, step-start, step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [8]assistant: step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [9]assistant: step-start, step-start, step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [10]assistant: step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [11]assistant: step-start, step-start, step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [12]assistant: step-start, step-start, step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:error, step-finish, patch
+[2026-05-29T08:12:08.144Z] message-hooks: post-filter, msgCount=13
+[2026-05-29T08:12:08.144Z] message-hooks: about to search for OPENCODE_GENERIC
+[2026-05-29T08:12:08.144Z] message-hooks: searching 13 messages for OPENCODE_GENERIC
+[2026-05-29T08:12:08.144Z] message-hooks: found synthetic text at [1]: "<available-skills>
+Use the use_skill, read_skill_f..." matches=false
+[2026-05-29T08:12:08.144Z] message-hooks: generic search complete, found=false, index=-1
+[2026-05-29T08:12:08.144Z] message-hooks: no generic part found, checking for pending prompt return
+[2026-05-29T08:12:35.942Z] message-hooks: ENTRY msgCount=14, sessions=ses_18d3ca601ffehNth4wDZFqjlJi
+[2026-05-29T08:12:35.942Z] message-hooks: MESSAGES: [0]user: text:""You are running inside a non-interactiv..." | [1]user: text:"<available-skills>
+Use the use_skill, re..."(syn) | [2]assistant: step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [3]assistant: step-start, step-start, step-start, step-start, step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [4]assistant: step-start, step-start, step-start, step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [5]assistant: step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [6]assistant: step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [7]assistant: step-start, step-start, step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [8]assistant: step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [9]assistant: step-start, step-start, step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [10]assistant: step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [11]assistant: step-start, step-start, step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [12]assistant: step-start, step-start, step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:error, step-finish, patch | [13]assistant: step-start, step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:error, step-finish, patch
+[2026-05-29T08:12:35.942Z] message-hooks: post-filter, msgCount=14
+[2026-05-29T08:12:35.942Z] message-hooks: about to search for OPENCODE_GENERIC
+[2026-05-29T08:12:35.942Z] message-hooks: searching 14 messages for OPENCODE_GENERIC
+[2026-05-29T08:12:35.942Z] message-hooks: found synthetic text at [1]: "<available-skills>
+Use the use_skill, read_skill_f..." matches=false
+[2026-05-29T08:12:35.942Z] message-hooks: generic search complete, found=false, index=-1
+[2026-05-29T08:12:35.942Z] message-hooks: no generic part found, checking for pending prompt return
+[2026-05-29T08:13:14.745Z] message-hooks: ENTRY msgCount=15, sessions=ses_18d3ca601ffehNth4wDZFqjlJi
+[2026-05-29T08:13:14.745Z] message-hooks: MESSAGES: [0]user: text:""You are running inside a non-interactiv..." | [1]user: text:"<available-skills>
+Use the use_skill, re..."(syn) | [2]assistant: step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [3]assistant: step-start, step-start, step-start, step-start, step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [4]assistant: step-start, step-start, step-start, step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [5]assistant: step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [6]assistant: step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [7]assistant: step-start, step-start, step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [8]assistant: step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [9]assistant: step-start, step-start, step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [10]assistant: step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [11]assistant: step-start, step-start, step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [12]assistant: step-start, step-start, step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:error, step-finish, patch | [13]assistant: step-start, step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:error, step-finish, patch | [14]assistant: step-start, step-start, step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch
+[2026-05-29T08:13:14.745Z] message-hooks: post-filter, msgCount=15
+[2026-05-29T08:13:14.745Z] message-hooks: about to search for OPENCODE_GENERIC
+[2026-05-29T08:13:14.745Z] message-hooks: searching 15 messages for OPENCODE_GENERIC
+[2026-05-29T08:13:14.745Z] message-hooks: found synthetic text at [1]: "<available-skills>
+Use the use_skill, read_skill_f..." matches=false
+[2026-05-29T08:13:14.745Z] message-hooks: generic search complete, found=false, index=-1
+[2026-05-29T08:13:14.745Z] message-hooks: no generic part found, checking for pending prompt return
+[2026-05-29T08:13:59.915Z] message-hooks: ENTRY msgCount=16, sessions=ses_18d3ca601ffehNth4wDZFqjlJi
+[2026-05-29T08:13:59.915Z] message-hooks: MESSAGES: [0]user: text:""You are running inside a non-interactiv..." | [1]user: text:"<available-skills>
+Use the use_skill, re..."(syn) | [2]assistant: step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [3]assistant: step-start, step-start, step-start, step-start, step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [4]assistant: step-start, step-start, step-start, step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [5]assistant: step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [6]assistant: step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [7]assistant: step-start, step-start, step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [8]assistant: step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [9]assistant: step-start, step-start, step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [10]assistant: step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [11]assistant: step-start, step-start, step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [12]assistant: step-start, step-start, step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:error, step-finish, patch | [13]assistant: step-start, step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:error, step-finish, patch | [14]assistant: step-start, step-start, step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [15]assistant: step-start, step-start, step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch
+[2026-05-29T08:13:59.915Z] message-hooks: post-filter, msgCount=16
+[2026-05-29T08:13:59.915Z] message-hooks: about to search for OPENCODE_GENERIC
+[2026-05-29T08:13:59.915Z] message-hooks: searching 16 messages for OPENCODE_GENERIC
+[2026-05-29T08:13:59.915Z] message-hooks: found synthetic text at [1]: "<available-skills>
+Use the use_skill, read_skill_f..." matches=false
+[2026-05-29T08:13:59.915Z] message-hooks: generic search complete, found=false, index=-1
+[2026-05-29T08:13:59.915Z] message-hooks: no generic part found, checking for pending prompt return
+[2026-05-29T08:14:39.849Z] message-hooks: ENTRY msgCount=17, sessions=ses_18d3ca601ffehNth4wDZFqjlJi
+[2026-05-29T08:14:39.849Z] message-hooks: MESSAGES: [0]user: text:""You are running inside a non-interactiv..." | [1]user: text:"<available-skills>
+Use the use_skill, re..."(syn) | [2]assistant: step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [3]assistant: step-start, step-start, step-start, step-start, step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [4]assistant: step-start, step-start, step-start, step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [5]assistant: step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [6]assistant: step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [7]assistant: step-start, step-start, step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [8]assistant: step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [9]assistant: step-start, step-start, step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [10]assistant: step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [11]assistant: step-start, step-start, step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [12]assistant: step-start, step-start, step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:error, step-finish, patch | [13]assistant: step-start, step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:error, step-finish, patch | [14]assistant: step-start, step-start, step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [15]assistant: step-start, step-start, step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [16]assistant: step-start, step-start, step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch
+[2026-05-29T08:14:39.849Z] message-hooks: post-filter, msgCount=17
+[2026-05-29T08:14:39.849Z] message-hooks: about to search for OPENCODE_GENERIC
+[2026-05-29T08:14:39.849Z] message-hooks: searching 17 messages for OPENCODE_GENERIC
+[2026-05-29T08:14:39.849Z] message-hooks: found synthetic text at [1]: "<available-skills>
+Use the use_skill, read_skill_f..." matches=false
+[2026-05-29T08:14:39.849Z] message-hooks: generic search complete, found=false, index=-1
+[2026-05-29T08:14:39.849Z] message-hooks: no generic part found, checking for pending prompt return
+[2026-05-29T08:15:01.766Z] message-hooks: ENTRY msgCount=18, sessions=ses_18d3ca601ffehNth4wDZFqjlJi
+[2026-05-29T08:15:01.766Z] message-hooks: MESSAGES: [0]user: text:""You are running inside a non-interactiv..." | [1]user: text:"<available-skills>
+Use the use_skill, re..."(syn) | [2]assistant: step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [3]assistant: step-start, step-start, step-start, step-start, step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [4]assistant: step-start, step-start, step-start, step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [5]assistant: step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [6]assistant: step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [7]assistant: step-start, step-start, step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [8]assistant: step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [9]assistant: step-start, step-start, step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [10]assistant: step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [11]assistant: step-start, step-start, step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [12]assistant: step-start, step-start, step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:error, step-finish, patch | [13]assistant: step-start, step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:error, step-finish, patch | [14]assistant: step-start, step-start, step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [15]assistant: step-start, step-start, step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [16]assistant: step-start, step-start, step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [17]assistant: step-start, step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch
+[2026-05-29T08:15:01.766Z] message-hooks: post-filter, msgCount=18
+[2026-05-29T08:15:01.766Z] message-hooks: about to search for OPENCODE_GENERIC
+[2026-05-29T08:15:01.766Z] message-hooks: searching 18 messages for OPENCODE_GENERIC
+[2026-05-29T08:15:01.766Z] message-hooks: found synthetic text at [1]: "<available-skills>
+Use the use_skill, read_skill_f..." matches=false
+[2026-05-29T08:15:01.766Z] message-hooks: generic search complete, found=false, index=-1
+[2026-05-29T08:15:01.766Z] message-hooks: no generic part found, checking for pending prompt return
+[2026-05-29T08:16:12.633Z] message-hooks: ENTRY msgCount=19, sessions=ses_18d3ca601ffehNth4wDZFqjlJi
+[2026-05-29T08:16:12.633Z] message-hooks: MESSAGES: [0]user: text:""You are running inside a non-interactiv..." | [1]user: text:"<available-skills>
+Use the use_skill, re..."(syn) | [2]assistant: step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [3]assistant: step-start, step-start, step-start, step-start, step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [4]assistant: step-start, step-start, step-start, step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [5]assistant: step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [6]assistant: step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [7]assistant: step-start, step-start, step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [8]assistant: step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [9]assistant: step-start, step-start, step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [10]assistant: step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [11]assistant: step-start, step-start, step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [12]assistant: step-start, step-start, step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:error, step-finish, patch | [13]assistant: step-start, step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:error, step-finish, patch | [14]assistant: step-start, step-start, step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [15]assistant: step-start, step-start, step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [16]assistant: step-start, step-start, step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [17]assistant: step-start, step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [18]assistant: step-start, step-start, step-start, step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch
+[2026-05-29T08:16:12.633Z] message-hooks: post-filter, msgCount=19
+[2026-05-29T08:16:12.633Z] message-hooks: about to search for OPENCODE_GENERIC
+[2026-05-29T08:16:12.633Z] message-hooks: searching 19 messages for OPENCODE_GENERIC
+[2026-05-29T08:16:12.633Z] message-hooks: found synthetic text at [1]: "<available-skills>
+Use the use_skill, read_skill_f..." matches=false
+[2026-05-29T08:16:12.633Z] message-hooks: generic search complete, found=false, index=-1
+[2026-05-29T08:16:12.633Z] message-hooks: no generic part found, checking for pending prompt return
+[2026-05-29T08:16:28.328Z] message-hooks: ENTRY msgCount=20, sessions=ses_18d3ca601ffehNth4wDZFqjlJi
+[2026-05-29T08:16:28.328Z] message-hooks: MESSAGES: [0]user: text:""You are running inside a non-interactiv..." | [1]user: text:"<available-skills>
+Use the use_skill, re..."(syn) | [2]assistant: step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [3]assistant: step-start, step-start, step-start, step-start, step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [4]assistant: step-start, step-start, step-start, step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [5]assistant: step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [6]assistant: step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [7]assistant: step-start, step-start, step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [8]assistant: step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [9]assistant: step-start, step-start, step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [10]assistant: step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [11]assistant: step-start, step-start, step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [12]assistant: step-start, step-start, step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:error, step-finish, patch | [13]assistant: step-start, step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:error, step-finish, patch | [14]assistant: step-start, step-start, step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [15]assistant: step-start, step-start, step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [16]assistant: step-start, step-start, step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [17]assistant: step-start, step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [18]assistant: step-start, step-start, step-start, step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [19]assistant: step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch
+[2026-05-29T08:16:28.328Z] message-hooks: post-filter, msgCount=20
+[2026-05-29T08:16:28.328Z] message-hooks: about to search for OPENCODE_GENERIC
+[2026-05-29T08:16:28.328Z] message-hooks: searching 20 messages for OPENCODE_GENERIC
+[2026-05-29T08:16:28.328Z] message-hooks: found synthetic text at [1]: "<available-skills>
+Use the use_skill, read_skill_f..." matches=false
+[2026-05-29T08:16:28.328Z] message-hooks: generic search complete, found=false, index=-1
+[2026-05-29T08:16:28.328Z] message-hooks: no generic part found, checking for pending prompt return
+[2026-05-29T08:17:05.518Z] message-hooks: ENTRY msgCount=21, sessions=ses_18d3ca601ffehNth4wDZFqjlJi
+[2026-05-29T08:17:05.518Z] message-hooks: MESSAGES: [0]user: text:""You are running inside a non-interactiv..." | [1]user: text:"<available-skills>
+Use the use_skill, re..."(syn) | [2]assistant: step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [3]assistant: step-start, step-start, step-start, step-start, step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [4]assistant: step-start, step-start, step-start, step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [5]assistant: step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [6]assistant: step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [7]assistant: step-start, step-start, step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [8]assistant: step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [9]assistant: step-start, step-start, step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [10]assistant: step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [11]assistant: step-start, step-start, step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [12]assistant: step-start, step-start, step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:error, step-finish, patch | [13]assistant: step-start, step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:error, step-finish, patch | [14]assistant: step-start, step-start, step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [15]assistant: step-start, step-start, step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [16]assistant: step-start, step-start, step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [17]assistant: step-start, step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [18]assistant: step-start, step-start, step-start, step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [19]assistant: step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [20]assistant: step-start, step-start, step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch
+[2026-05-29T08:17:05.518Z] message-hooks: post-filter, msgCount=21
+[2026-05-29T08:17:05.518Z] message-hooks: about to search for OPENCODE_GENERIC
+[2026-05-29T08:17:05.518Z] message-hooks: searching 21 messages for OPENCODE_GENERIC
+[2026-05-29T08:17:05.518Z] message-hooks: found synthetic text at [1]: "<available-skills>
+Use the use_skill, read_skill_f..." matches=false
+[2026-05-29T08:17:05.518Z] message-hooks: generic search complete, found=false, index=-1
+[2026-05-29T08:17:05.518Z] message-hooks: no generic part found, checking for pending prompt return
+[2026-05-29T08:18:06.676Z] message-hooks: ENTRY msgCount=22, sessions=ses_18d3ca601ffehNth4wDZFqjlJi
+[2026-05-29T08:18:06.676Z] message-hooks: MESSAGES: [0]user: text:""You are running inside a non-interactiv..." | [1]user: text:"<available-skills>
+Use the use_skill, re..."(syn) | [2]assistant: step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [3]assistant: step-start, step-start, step-start, step-start, step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [4]assistant: step-start, step-start, step-start, step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [5]assistant: step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [6]assistant: step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [7]assistant: step-start, step-start, step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [8]assistant: step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [9]assistant: step-start, step-start, step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [10]assistant: step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [11]assistant: step-start, step-start, step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [12]assistant: step-start, step-start, step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:error, step-finish, patch | [13]assistant: step-start, step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:error, step-finish, patch | [14]assistant: step-start, step-start, step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [15]assistant: step-start, step-start, step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [16]assistant: step-start, step-start, step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [17]assistant: step-start, step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [18]assistant: step-start, step-start, step-start, step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [19]assistant: step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [20]assistant: step-start, step-start, step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [21]assistant: step-start, step-start, step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch
+[2026-05-29T08:18:06.676Z] message-hooks: post-filter, msgCount=22
+[2026-05-29T08:18:06.676Z] message-hooks: about to search for OPENCODE_GENERIC
+[2026-05-29T08:18:06.676Z] message-hooks: searching 22 messages for OPENCODE_GENERIC
+[2026-05-29T08:18:06.676Z] message-hooks: found synthetic text at [1]: "<available-skills>
+Use the use_skill, read_skill_f..." matches=false
+[2026-05-29T08:18:06.676Z] message-hooks: generic search complete, found=false, index=-1
+[2026-05-29T08:18:06.676Z] message-hooks: no generic part found, checking for pending prompt return
+[2026-05-29T08:18:33.805Z] message-hooks: ENTRY msgCount=23, sessions=ses_18d3ca601ffehNth4wDZFqjlJi
+[2026-05-29T08:18:33.805Z] message-hooks: MESSAGES: [0]user: text:""You are running inside a non-interactiv..." | [1]user: text:"<available-skills>
+Use the use_skill, re..."(syn) | [2]assistant: step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [3]assistant: step-start, step-start, step-start, step-start, step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [4]assistant: step-start, step-start, step-start, step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [5]assistant: step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [6]assistant: step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [7]assistant: step-start, step-start, step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [8]assistant: step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [9]assistant: step-start, step-start, step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [10]assistant: step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [11]assistant: step-start, step-start, step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [12]assistant: step-start, step-start, step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:error, step-finish, patch | [13]assistant: step-start, step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:error, step-finish, patch | [14]assistant: step-start, step-start, step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [15]assistant: step-start, step-start, step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [16]assistant: step-start, step-start, step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [17]assistant: step-start, step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [18]assistant: step-start, step-start, step-start, step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [19]assistant: step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [20]assistant: step-start, step-start, step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [21]assistant: step-start, step-start, step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [22]assistant: step-start, step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch
+[2026-05-29T08:18:33.805Z] message-hooks: post-filter, msgCount=23
+[2026-05-29T08:18:33.805Z] message-hooks: about to search for OPENCODE_GENERIC
+[2026-05-29T08:18:33.805Z] message-hooks: searching 23 messages for OPENCODE_GENERIC
+[2026-05-29T08:18:33.805Z] message-hooks: found synthetic text at [1]: "<available-skills>
+Use the use_skill, read_skill_f..." matches=false
+[2026-05-29T08:18:33.805Z] message-hooks: generic search complete, found=false, index=-1
+[2026-05-29T08:18:33.805Z] message-hooks: no generic part found, checking for pending prompt return
+[2026-05-29T08:19:44.183Z] message-hooks: ENTRY msgCount=24, sessions=ses_18d3ca601ffehNth4wDZFqjlJi
+[2026-05-29T08:19:44.183Z] message-hooks: MESSAGES: [0]user: text:""You are running inside a non-interactiv..." | [1]user: text:"<available-skills>
+Use the use_skill, re..."(syn) | [2]assistant: step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [3]assistant: step-start, step-start, step-start, step-start, step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [4]assistant: step-start, step-start, step-start, step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [5]assistant: step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [6]assistant: step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [7]assistant: step-start, step-start, step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [8]assistant: step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [9]assistant: step-start, step-start, step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [10]assistant: step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [11]assistant: step-start, step-start, step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [12]assistant: step-start, step-start, step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:error, step-finish, patch | [13]assistant: step-start, step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:error, step-finish, patch | [14]assistant: step-start, step-start, step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [15]assistant: step-start, step-start, step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [16]assistant: step-start, step-start, step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [17]assistant: step-start, step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [18]assistant: step-start, step-start, step-start, step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [19]assistant: step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [20]assistant: step-start, step-start, step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [21]assistant: step-start, step-start, step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [22]assistant: step-start, step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [23]assistant: step-start, step-start, step-start, step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch
+[2026-05-29T08:19:44.183Z] message-hooks: post-filter, msgCount=24
+[2026-05-29T08:19:44.183Z] message-hooks: about to search for OPENCODE_GENERIC
+[2026-05-29T08:19:44.183Z] message-hooks: searching 24 messages for OPENCODE_GENERIC
+[2026-05-29T08:19:44.183Z] message-hooks: found synthetic text at [1]: "<available-skills>
+Use the use_skill, read_skill_f..." matches=false
+[2026-05-29T08:19:44.183Z] message-hooks: generic search complete, found=false, index=-1
+[2026-05-29T08:19:44.183Z] message-hooks: no generic part found, checking for pending prompt return
+[2026-05-29T08:20:10.046Z] message-hooks: ENTRY msgCount=25, sessions=ses_18d3ca601ffehNth4wDZFqjlJi
+[2026-05-29T08:20:10.046Z] message-hooks: MESSAGES: [0]user: text:""You are running inside a non-interactiv..." | [1]user: text:"<available-skills>
+Use the use_skill, re..."(syn) | [2]assistant: step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [3]assistant: step-start, step-start, step-start, step-start, step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [4]assistant: step-start, step-start, step-start, step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [5]assistant: step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [6]assistant: step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [7]assistant: step-start, step-start, step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [8]assistant: step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [9]assistant: step-start, step-start, step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [10]assistant: step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [11]assistant: step-start, step-start, step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [12]assistant: step-start, step-start, step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:error, step-finish, patch | [13]assistant: step-start, step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:error, step-finish, patch | [14]assistant: step-start, step-start, step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [15]assistant: step-start, step-start, step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [16]assistant: step-start, step-start, step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [17]assistant: step-start, step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [18]assistant: step-start, step-start, step-start, step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [19]assistant: step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [20]assistant: step-start, step-start, step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [21]assistant: step-start, step-start, step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [22]assistant: step-start, step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [23]assistant: step-start, step-start, step-start, step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [24]assistant: step-start, step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch
+[2026-05-29T08:20:10.046Z] message-hooks: post-filter, msgCount=25
+[2026-05-29T08:20:10.046Z] message-hooks: about to search for OPENCODE_GENERIC
+[2026-05-29T08:20:10.046Z] message-hooks: searching 25 messages for OPENCODE_GENERIC
+[2026-05-29T08:20:10.046Z] message-hooks: found synthetic text at [1]: "<available-skills>
+Use the use_skill, read_skill_f..." matches=false
+[2026-05-29T08:20:10.046Z] message-hooks: generic search complete, found=false, index=-1
+[2026-05-29T08:20:10.046Z] message-hooks: no generic part found, checking for pending prompt return
+[2026-05-29T08:21:35.644Z] message-hooks: ENTRY msgCount=26, sessions=ses_18d3ca601ffehNth4wDZFqjlJi
+[2026-05-29T08:21:35.644Z] message-hooks: MESSAGES: [0]user: text:""You are running inside a non-interactiv..." | [1]user: text:"<available-skills>
+Use the use_skill, re..."(syn) | [2]assistant: step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [3]assistant: step-start, step-start, step-start, step-start, step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [4]assistant: step-start, step-start, step-start, step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [5]assistant: step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [6]assistant: step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [7]assistant: step-start, step-start, step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [8]assistant: step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [9]assistant: step-start, step-start, step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [10]assistant: step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [11]assistant: step-start, step-start, step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [12]assistant: step-start, step-start, step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:error, step-finish, patch | [13]assistant: step-start, step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:error, step-finish, patch | [14]assistant: step-start, step-start, step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [15]assistant: step-start, step-start, step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [16]assistant: step-start, step-start, step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [17]assistant: step-start, step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [18]assistant: step-start, step-start, step-start, step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [19]assistant: step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [20]assistant: step-start, step-start, step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [21]assistant: step-start, step-start, step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [22]assistant: step-start, step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [23]assistant: step-start, step-start, step-start, step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [24]assistant: step-start, step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [25]assistant: step-start, step-start, step-start, step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch
+[2026-05-29T08:21:35.644Z] message-hooks: post-filter, msgCount=26
+[2026-05-29T08:21:35.644Z] message-hooks: about to search for OPENCODE_GENERIC
+[2026-05-29T08:21:35.644Z] message-hooks: searching 26 messages for OPENCODE_GENERIC
+[2026-05-29T08:21:35.644Z] message-hooks: found synthetic text at [1]: "<available-skills>
+Use the use_skill, read_skill_f..." matches=false
+[2026-05-29T08:21:35.644Z] message-hooks: generic search complete, found=false, index=-1
+[2026-05-29T08:21:35.644Z] message-hooks: no generic part found, checking for pending prompt return
+[2026-05-29T08:21:56.695Z] message-hooks: ENTRY msgCount=27, sessions=ses_18d3ca601ffehNth4wDZFqjlJi
+[2026-05-29T08:21:56.695Z] message-hooks: MESSAGES: [0]user: text:""You are running inside a non-interactiv..." | [1]user: text:"<available-skills>
+Use the use_skill, re..."(syn) | [2]assistant: step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [3]assistant: step-start, step-start, step-start, step-start, step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [4]assistant: step-start, step-start, step-start, step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [5]assistant: step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [6]assistant: step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [7]assistant: step-start, step-start, step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [8]assistant: step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [9]assistant: step-start, step-start, step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [10]assistant: step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [11]assistant: step-start, step-start, step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [12]assistant: step-start, step-start, step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:error, step-finish, patch | [13]assistant: step-start, step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:error, step-finish, patch | [14]assistant: step-start, step-start, step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [15]assistant: step-start, step-start, step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [16]assistant: step-start, step-start, step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [17]assistant: step-start, step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [18]assistant: step-start, step-start, step-start, step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [19]assistant: step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [20]assistant: step-start, step-start, step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [21]assistant: step-start, step-start, step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [22]assistant: step-start, step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [23]assistant: step-start, step-start, step-start, step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [24]assistant: step-start, step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [25]assistant: step-start, step-start, step-start, step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [26]assistant: step-start, step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch
+[2026-05-29T08:21:56.695Z] message-hooks: post-filter, msgCount=27
+[2026-05-29T08:21:56.695Z] message-hooks: about to search for OPENCODE_GENERIC
+[2026-05-29T08:21:56.695Z] message-hooks: searching 27 messages for OPENCODE_GENERIC
+[2026-05-29T08:21:56.695Z] message-hooks: found synthetic text at [1]: "<available-skills>
+Use the use_skill, read_skill_f..." matches=false
+[2026-05-29T08:21:56.695Z] message-hooks: generic search complete, found=false, index=-1
+[2026-05-29T08:21:56.695Z] message-hooks: no generic part found, checking for pending prompt return
+[2026-05-29T08:23:10.754Z] message-hooks: ENTRY msgCount=28, sessions=ses_18d3ca601ffehNth4wDZFqjlJi
+[2026-05-29T08:23:10.755Z] message-hooks: MESSAGES: [0]user: text:""You are running inside a non-interactiv..." | [1]user: text:"<available-skills>
+Use the use_skill, re..."(syn) | [2]assistant: step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [3]assistant: step-start, step-start, step-start, step-start, step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [4]assistant: step-start, step-start, step-start, step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [5]assistant: step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [6]assistant: step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [7]assistant: step-start, step-start, step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [8]assistant: step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [9]assistant: step-start, step-start, step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [10]assistant: step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [11]assistant: step-start, step-start, step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [12]assistant: step-start, step-start, step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:error, step-finish, patch | [13]assistant: step-start, step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:error, step-finish, patch | [14]assistant: step-start, step-start, step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [15]assistant: step-start, step-start, step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [16]assistant: step-start, step-start, step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [17]assistant: step-start, step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [18]assistant: step-start, step-start, step-start, step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [19]assistant: step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [20]assistant: step-start, step-start, step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [21]assistant: step-start, step-start, step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [22]assistant: step-start, step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [23]assistant: step-start, step-start, step-start, step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [24]assistant: step-start, step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [25]assistant: step-start, step-start, step-start, step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [26]assistant: step-start, step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [27]assistant: step-start, step-start, step-start, step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch
+[2026-05-29T08:23:10.756Z] message-hooks: post-filter, msgCount=28
+[2026-05-29T08:23:10.756Z] message-hooks: about to search for OPENCODE_GENERIC
+[2026-05-29T08:23:10.756Z] message-hooks: searching 28 messages for OPENCODE_GENERIC
+[2026-05-29T08:23:10.756Z] message-hooks: found synthetic text at [1]: "<available-skills>
+Use the use_skill, read_skill_f..." matches=false
+[2026-05-29T08:23:10.756Z] message-hooks: generic search complete, found=false, index=-1
+[2026-05-29T08:23:10.756Z] message-hooks: no generic part found, checking for pending prompt return
+[2026-05-29T08:23:56.702Z] message-hooks: ENTRY msgCount=29, sessions=ses_18d3ca601ffehNth4wDZFqjlJi
+[2026-05-29T08:23:56.702Z] message-hooks: MESSAGES: [0]user: text:""You are running inside a non-interactiv..." | [1]user: text:"<available-skills>
+Use the use_skill, re..."(syn) | [2]assistant: step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [3]assistant: step-start, step-start, step-start, step-start, step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [4]assistant: step-start, step-start, step-start, step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [5]assistant: step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [6]assistant: step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [7]assistant: step-start, step-start, step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [8]assistant: step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [9]assistant: step-start, step-start, step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [10]assistant: step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [11]assistant: step-start, step-start, step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [12]assistant: step-start, step-start, step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:error, step-finish, patch | [13]assistant: step-start, step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:error, step-finish, patch | [14]assistant: step-start, step-start, step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [15]assistant: step-start, step-start, step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [16]assistant: step-start, step-start, step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [17]assistant: step-start, step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [18]assistant: step-start, step-start, step-start, step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [19]assistant: step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [20]assistant: step-start, step-start, step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [21]assistant: step-start, step-start, step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [22]assistant: step-start, step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [23]assistant: step-start, step-start, step-start, step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [24]assistant: step-start, step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [25]assistant: step-start, step-start, step-start, step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [26]assistant: step-start, step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [27]assistant: step-start, step-start, step-start, step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [28]assistant: step-start, step-start, step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch
+[2026-05-29T08:23:56.702Z] message-hooks: post-filter, msgCount=29
+[2026-05-29T08:23:56.702Z] message-hooks: about to search for OPENCODE_GENERIC
+[2026-05-29T08:23:56.702Z] message-hooks: searching 29 messages for OPENCODE_GENERIC
+[2026-05-29T08:23:56.702Z] message-hooks: found synthetic text at [1]: "<available-skills>
+Use the use_skill, read_skill_f..." matches=false
+[2026-05-29T08:23:56.702Z] message-hooks: generic search complete, found=false, index=-1
+[2026-05-29T08:23:56.702Z] message-hooks: no generic part found, checking for pending prompt return
+[2026-05-29T08:25:16.850Z] message-hooks: ENTRY msgCount=30, sessions=ses_18d3ca601ffehNth4wDZFqjlJi
+[2026-05-29T08:25:16.850Z] message-hooks: MESSAGES: [0]user: text:""You are running inside a non-interactiv..." | [1]user: text:"<available-skills>
+Use the use_skill, re..."(syn) | [2]assistant: step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [3]assistant: step-start, step-start, step-start, step-start, step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [4]assistant: step-start, step-start, step-start, step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [5]assistant: step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [6]assistant: step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [7]assistant: step-start, step-start, step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [8]assistant: step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [9]assistant: step-start, step-start, step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [10]assistant: step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [11]assistant: step-start, step-start, step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [12]assistant: step-start, step-start, step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:error, step-finish, patch | [13]assistant: step-start, step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:error, step-finish, patch | [14]assistant: step-start, step-start, step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [15]assistant: step-start, step-start, step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [16]assistant: step-start, step-start, step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [17]assistant: step-start, step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [18]assistant: step-start, step-start, step-start, step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [19]assistant: step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [20]assistant: step-start, step-start, step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [21]assistant: step-start, step-start, step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [22]assistant: step-start, step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [23]assistant: step-start, step-start, step-start, step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [24]assistant: step-start, step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [25]assistant: step-start, step-start, step-start, step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [26]assistant: step-start, step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [27]assistant: step-start, step-start, step-start, step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [28]assistant: step-start, step-start, step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [29]assistant: step-start, step-start, step-start, step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch
+[2026-05-29T08:25:16.850Z] message-hooks: post-filter, msgCount=30
+[2026-05-29T08:25:16.850Z] message-hooks: about to search for OPENCODE_GENERIC
+[2026-05-29T08:25:16.850Z] message-hooks: searching 30 messages for OPENCODE_GENERIC
+[2026-05-29T08:25:16.851Z] message-hooks: found synthetic text at [1]: "<available-skills>
+Use the use_skill, read_skill_f..." matches=false
+[2026-05-29T08:25:16.851Z] message-hooks: generic search complete, found=false, index=-1
+[2026-05-29T08:25:16.851Z] message-hooks: no generic part found, checking for pending prompt return
+[2026-05-29T08:26:01.698Z] message-hooks: ENTRY msgCount=31, sessions=ses_18d3ca601ffehNth4wDZFqjlJi
+[2026-05-29T08:26:01.698Z] message-hooks: MESSAGES: [0]user: text:""You are running inside a non-interactiv..." | [1]user: text:"<available-skills>
+Use the use_skill, re..."(syn) | [2]assistant: step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [3]assistant: step-start, step-start, step-start, step-start, step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [4]assistant: step-start, step-start, step-start, step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [5]assistant: step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [6]assistant: step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [7]assistant: step-start, step-start, step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [8]assistant: step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [9]assistant: step-start, step-start, step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [10]assistant: step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [11]assistant: step-start, step-start, step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [12]assistant: step-start, step-start, step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:error, step-finish, patch | [13]assistant: step-start, step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:error, step-finish, patch | [14]assistant: step-start, step-start, step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [15]assistant: step-start, step-start, step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [16]assistant: step-start, step-start, step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [17]assistant: step-start, step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [18]assistant: step-start, step-start, step-start, step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [19]assistant: step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [20]assistant: step-start, step-start, step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [21]assistant: step-start, step-start, step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [22]assistant: step-start, step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [23]assistant: step-start, step-start, step-start, step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [24]assistant: step-start, step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [25]assistant: step-start, step-start, step-start, step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [26]assistant: step-start, step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [27]assistant: step-start, step-start, step-start, step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [28]assistant: step-start, step-start, step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [29]assistant: step-start, step-start, step-start, step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [30]assistant: step-start, step-start, step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch
+[2026-05-29T08:26:01.698Z] message-hooks: post-filter, msgCount=31
+[2026-05-29T08:26:01.698Z] message-hooks: about to search for OPENCODE_GENERIC
+[2026-05-29T08:26:01.698Z] message-hooks: searching 31 messages for OPENCODE_GENERIC
+[2026-05-29T08:26:01.698Z] message-hooks: found synthetic text at [1]: "<available-skills>
+Use the use_skill, read_skill_f..." matches=false
+[2026-05-29T08:26:01.699Z] message-hooks: generic search complete, found=false, index=-1
+[2026-05-29T08:26:01.699Z] message-hooks: no generic part found, checking for pending prompt return
+[2026-05-29T08:26:45.709Z] message-hooks: ENTRY msgCount=32, sessions=ses_18d3ca601ffehNth4wDZFqjlJi
+[2026-05-29T08:26:45.709Z] message-hooks: MESSAGES: [0]user: text:""You are running inside a non-interactiv..." | [1]user: text:"<available-skills>
+Use the use_skill, re..."(syn) | [2]assistant: step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [3]assistant: step-start, step-start, step-start, step-start, step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [4]assistant: step-start, step-start, step-start, step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [5]assistant: step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [6]assistant: step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [7]assistant: step-start, step-start, step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [8]assistant: step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [9]assistant: step-start, step-start, step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [10]assistant: step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [11]assistant: step-start, step-start, step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [12]assistant: step-start, step-start, step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:error, step-finish, patch | [13]assistant: step-start, step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:error, step-finish, patch | [14]assistant: step-start, step-start, step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [15]assistant: step-start, step-start, step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [16]assistant: step-start, step-start, step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [17]assistant: step-start, step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [18]assistant: step-start, step-start, step-start, step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [19]assistant: step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [20]assistant: step-start, step-start, step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [21]assistant: step-start, step-start, step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [22]assistant: step-start, step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [23]assistant: step-start, step-start, step-start, step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [24]assistant: step-start, step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [25]assistant: step-start, step-start, step-start, step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [26]assistant: step-start, step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [27]assistant: step-start, step-start, step-start, step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [28]assistant: step-start, step-start, step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [29]assistant: step-start, step-start, step-start, step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [30]assistant: step-start, step-start, step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [31]assistant: step-start, step-start, step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch
+[2026-05-29T08:26:45.709Z] message-hooks: post-filter, msgCount=32
+[2026-05-29T08:26:45.710Z] message-hooks: about to search for OPENCODE_GENERIC
+[2026-05-29T08:26:45.710Z] message-hooks: searching 32 messages for OPENCODE_GENERIC
+[2026-05-29T08:26:45.710Z] message-hooks: found synthetic text at [1]: "<available-skills>
+Use the use_skill, read_skill_f..." matches=false
+[2026-05-29T08:26:45.710Z] message-hooks: generic search complete, found=false, index=-1
+[2026-05-29T08:26:45.710Z] message-hooks: no generic part found, checking for pending prompt return
+[2026-05-29T08:27:53.969Z] message-hooks: ENTRY msgCount=33, sessions=ses_18d3ca601ffehNth4wDZFqjlJi
+[2026-05-29T08:27:53.969Z] message-hooks: MESSAGES: [0]user: text:""You are running inside a non-interactiv..." | [1]user: text:"<available-skills>
+Use the use_skill, re..."(syn) | [2]assistant: step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [3]assistant: step-start, step-start, step-start, step-start, step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [4]assistant: step-start, step-start, step-start, step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [5]assistant: step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [6]assistant: step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [7]assistant: step-start, step-start, step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [8]assistant: step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [9]assistant: step-start, step-start, step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [10]assistant: step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [11]assistant: step-start, step-start, step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [12]assistant: step-start, step-start, step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:error, step-finish, patch | [13]assistant: step-start, step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:error, step-finish, patch | [14]assistant: step-start, step-start, step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [15]assistant: step-start, step-start, step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [16]assistant: step-start, step-start, step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [17]assistant: step-start, step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [18]assistant: step-start, step-start, step-start, step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [19]assistant: step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [20]assistant: step-start, step-start, step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [21]assistant: step-start, step-start, step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [22]assistant: step-start, step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [23]assistant: step-start, step-start, step-start, step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [24]assistant: step-start, step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [25]assistant: step-start, step-start, step-start, step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [26]assistant: step-start, step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [27]assistant: step-start, step-start, step-start, step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [28]assistant: step-start, step-start, step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [29]assistant: step-start, step-start, step-start, step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [30]assistant: step-start, step-start, step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [31]assistant: step-start, step-start, step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [32]assistant: step-start, step-start, step-start, step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch
+[2026-05-29T08:27:53.969Z] message-hooks: post-filter, msgCount=33
+[2026-05-29T08:27:53.969Z] message-hooks: about to search for OPENCODE_GENERIC
+[2026-05-29T08:27:53.969Z] message-hooks: searching 33 messages for OPENCODE_GENERIC
+[2026-05-29T08:27:53.969Z] message-hooks: found synthetic text at [1]: "<available-skills>
+Use the use_skill, read_skill_f..." matches=false
+[2026-05-29T08:27:53.969Z] message-hooks: generic search complete, found=false, index=-1
+[2026-05-29T08:27:53.969Z] message-hooks: no generic part found, checking for pending prompt return
+[2026-05-29T08:29:24.436Z] message-hooks: ENTRY msgCount=34, sessions=ses_18d3ca601ffehNth4wDZFqjlJi
+[2026-05-29T08:29:24.436Z] message-hooks: MESSAGES: [0]user: text:""You are running inside a non-interactiv..." | [1]user: text:"<available-skills>
+Use the use_skill, re..."(syn) | [2]assistant: step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [3]assistant: step-start, step-start, step-start, step-start, step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [4]assistant: step-start, step-start, step-start, step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [5]assistant: step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [6]assistant: step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [7]assistant: step-start, step-start, step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [8]assistant: step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [9]assistant: step-start, step-start, step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [10]assistant: step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [11]assistant: step-start, step-start, step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [12]assistant: step-start, step-start, step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:error, step-finish, patch | [13]assistant: step-start, step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:error, step-finish, patch | [14]assistant: step-start, step-start, step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [15]assistant: step-start, step-start, step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [16]assistant: step-start, step-start, step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [17]assistant: step-start, step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [18]assistant: step-start, step-start, step-start, step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [19]assistant: step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [20]assistant: step-start, step-start, step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [21]assistant: step-start, step-start, step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [22]assistant: step-start, step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [23]assistant: step-start, step-start, step-start, step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [24]assistant: step-start, step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [25]assistant: step-start, step-start, step-start, step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [26]assistant: step-start, step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [27]assistant: step-start, step-start, step-start, step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [28]assistant: step-start, step-start, step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [29]assistant: step-start, step-start, step-start, step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [30]assistant: step-start, step-start, step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [31]assistant: step-start, step-start, step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [32]assistant: step-start, step-start, step-start, step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [33]assistant: step-start, step-start, step-start, step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch
+[2026-05-29T08:29:24.436Z] message-hooks: post-filter, msgCount=34
+[2026-05-29T08:29:24.436Z] message-hooks: about to search for OPENCODE_GENERIC
+[2026-05-29T08:29:24.436Z] message-hooks: searching 34 messages for OPENCODE_GENERIC
+[2026-05-29T08:29:24.436Z] message-hooks: found synthetic text at [1]: "<available-skills>
+Use the use_skill, read_skill_f..." matches=false
+[2026-05-29T08:29:24.436Z] message-hooks: generic search complete, found=false, index=-1
+[2026-05-29T08:29:24.436Z] message-hooks: no generic part found, checking for pending prompt return
+[2026-05-29T08:29:36.566Z] message-hooks: ENTRY msgCount=35, sessions=ses_18d3ca601ffehNth4wDZFqjlJi
+[2026-05-29T08:29:36.566Z] message-hooks: MESSAGES: [0]user: text:""You are running inside a non-interactiv..." | [1]user: text:"<available-skills>
+Use the use_skill, re..."(syn) | [2]assistant: step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [3]assistant: step-start, step-start, step-start, step-start, step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [4]assistant: step-start, step-start, step-start, step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [5]assistant: step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [6]assistant: step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [7]assistant: step-start, step-start, step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [8]assistant: step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [9]assistant: step-start, step-start, step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [10]assistant: step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [11]assistant: step-start, step-start, step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [12]assistant: step-start, step-start, step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:error, step-finish, patch | [13]assistant: step-start, step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:error, step-finish, patch | [14]assistant: step-start, step-start, step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [15]assistant: step-start, step-start, step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [16]assistant: step-start, step-start, step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [17]assistant: step-start, step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [18]assistant: step-start, step-start, step-start, step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [19]assistant: step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [20]assistant: step-start, step-start, step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [21]assistant: step-start, step-start, step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [22]assistant: step-start, step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [23]assistant: step-start, step-start, step-start, step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [24]assistant: step-start, step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [25]assistant: step-start, step-start, step-start, step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [26]assistant: step-start, step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [27]assistant: step-start, step-start, step-start, step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [28]assistant: step-start, step-start, step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [29]assistant: step-start, step-start, step-start, step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [30]assistant: step-start, step-start, step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [31]assistant: step-start, step-start, step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [32]assistant: step-start, step-start, step-start, step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [33]assistant: step-start, step-start, step-start, step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [34]assistant: step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch
+[2026-05-29T08:29:36.566Z] message-hooks: post-filter, msgCount=35
+[2026-05-29T08:29:36.566Z] message-hooks: about to search for OPENCODE_GENERIC
+[2026-05-29T08:29:36.566Z] message-hooks: searching 35 messages for OPENCODE_GENERIC
+[2026-05-29T08:29:36.566Z] message-hooks: found synthetic text at [1]: "<available-skills>
+Use the use_skill, read_skill_f..." matches=false
+[2026-05-29T08:29:36.566Z] message-hooks: generic search complete, found=false, index=-1
+[2026-05-29T08:29:36.566Z] message-hooks: no generic part found, checking for pending prompt return
+[2026-05-29T08:29:50.147Z] message-hooks: ENTRY msgCount=36, sessions=ses_18d3ca601ffehNth4wDZFqjlJi
+[2026-05-29T08:29:50.147Z] message-hooks: MESSAGES: [0]user: text:""You are running inside a non-interactiv..." | [1]user: text:"<available-skills>
+Use the use_skill, re..."(syn) | [2]assistant: step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [3]assistant: step-start, step-start, step-start, step-start, step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [4]assistant: step-start, step-start, step-start, step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [5]assistant: step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [6]assistant: step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [7]assistant: step-start, step-start, step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [8]assistant: step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [9]assistant: step-start, step-start, step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [10]assistant: step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [11]assistant: step-start, step-start, step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [12]assistant: step-start, step-start, step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:error, step-finish, patch | [13]assistant: step-start, step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:error, step-finish, patch | [14]assistant: step-start, step-start, step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [15]assistant: step-start, step-start, step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [16]assistant: step-start, step-start, step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [17]assistant: step-start, step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [18]assistant: step-start, step-start, step-start, step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [19]assistant: step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [20]assistant: step-start, step-start, step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [21]assistant: step-start, step-start, step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [22]assistant: step-start, step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [23]assistant: step-start, step-start, step-start, step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [24]assistant: step-start, step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [25]assistant: step-start, step-start, step-start, step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [26]assistant: step-start, step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [27]assistant: step-start, step-start, step-start, step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [28]assistant: step-start, step-start, step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [29]assistant: step-start, step-start, step-start, step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [30]assistant: step-start, step-start, step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [31]assistant: step-start, step-start, step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [32]assistant: step-start, step-start, step-start, step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [33]assistant: step-start, step-start, step-start, step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [34]assistant: step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [35]assistant: step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch
+[2026-05-29T08:29:50.147Z] message-hooks: post-filter, msgCount=36
+[2026-05-29T08:29:50.147Z] message-hooks: about to search for OPENCODE_GENERIC
+[2026-05-29T08:29:50.147Z] message-hooks: searching 36 messages for OPENCODE_GENERIC
+[2026-05-29T08:29:50.147Z] message-hooks: found synthetic text at [1]: "<available-skills>
+Use the use_skill, read_skill_f..." matches=false
+[2026-05-29T08:29:50.147Z] message-hooks: generic search complete, found=false, index=-1
+[2026-05-29T08:29:50.147Z] message-hooks: no generic part found, checking for pending prompt return
+[2026-05-29T08:30:01.412Z] message-hooks: ENTRY msgCount=37, sessions=ses_18d3ca601ffehNth4wDZFqjlJi
+[2026-05-29T08:30:01.412Z] message-hooks: MESSAGES: [0]user: text:""You are running inside a non-interactiv..." | [1]user: text:"<available-skills>
+Use the use_skill, re..."(syn) | [2]assistant: step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [3]assistant: step-start, step-start, step-start, step-start, step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [4]assistant: step-start, step-start, step-start, step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [5]assistant: step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [6]assistant: step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [7]assistant: step-start, step-start, step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [8]assistant: step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [9]assistant: step-start, step-start, step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [10]assistant: step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [11]assistant: step-start, step-start, step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [12]assistant: step-start, step-start, step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:error, step-finish, patch | [13]assistant: step-start, step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:error, step-finish, patch | [14]assistant: step-start, step-start, step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [15]assistant: step-start, step-start, step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [16]assistant: step-start, step-start, step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [17]assistant: step-start, step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [18]assistant: step-start, step-start, step-start, step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [19]assistant: step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [20]assistant: step-start, step-start, step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [21]assistant: step-start, step-start, step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [22]assistant: step-start, step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [23]assistant: step-start, step-start, step-start, step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [24]assistant: step-start, step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [25]assistant: step-start, step-start, step-start, step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [26]assistant: step-start, step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [27]assistant: step-start, step-start, step-start, step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [28]assistant: step-start, step-start, step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [29]assistant: step-start, step-start, step-start, step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [30]assistant: step-start, step-start, step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [31]assistant: step-start, step-start, step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [32]assistant: step-start, step-start, step-start, step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [33]assistant: step-start, step-start, step-start, step-start, step-start, step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [34]assistant: step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [35]assistant: step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch | [36]assistant: step-start, reasoning, text:"
+
+
+", tool:completed, step-finish, patch
+[2026-05-29T08:30:01.412Z] message-hooks: post-filter, msgCount=37
+[2026-05-29T08:30:01.412Z] message-hooks: about to search for OPENCODE_GENERIC
+[2026-05-29T08:30:01.412Z] message-hooks: searching 37 messages for OPENCODE_GENERIC
+[2026-05-29T08:30:01.412Z] message-hooks: found synthetic text at [1]: "<available-skills>
+Use the use_skill, read_skill_f..." matches=false
+[2026-05-29T08:30:01.412Z] message-hooks: generic search complete, found=false, index=-1
+[2026-05-29T08:30:01.412Z] message-hooks: no generic part found, checking for pending prompt return
+[2026-05-29T08:30:07.901Z] session.idle: sessionID=ses_18d3ca601ffehNth4wDZFqjlJi
