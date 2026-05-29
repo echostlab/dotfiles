@@ -494,8 +494,6 @@ jobs:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           AZURE_OPENAI_API_KEY1: ${{ secrets.AZURE_OPENAI_API_KEY1 }}
           OPENCODE_CONFIG: ${{ github.workspace }}/opencode.json
-          OPENCODE_PERMISSION: >-
-            {"*":"allow","question":"deny","read":"allow","glob":"allow","grep":"allow","list":"allow","lsp":"allow","skill":{"*":"allow"},"webfetch":"allow","websearch":"allow","task":"deny","todowrite":"allow","repo_overview":"allow","repo_clone":"allow","external_directory":"allow","edit":"allow","github_*":"allow","context7_*":"allow","playwright_*":"allow","bash":{"*":"allow","rm -rf *":"deny"}}
           OPENCODE_PROMPT: ${{ steps.prompt.outputs.prompt }}
         run: |
           set -euo pipefail
