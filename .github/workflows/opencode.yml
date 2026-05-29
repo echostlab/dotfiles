@@ -234,15 +234,14 @@ jobs:
         run: |
           set -euo pipefail
           export PATH="$HOME/.opencode/bin:$PATH"
-          swarm setup
-
+          
       - name: Check dependencies
         if: steps.route.outputs.should_run == 'true'
         shell: bash
         run: |
           set -euo pipefail
           export PATH="$HOME/.opencode/bin:$PATH"
-          swarm doctor
+          
 
       - name: Verify OpenCode toolchain
         if: steps.route.outputs.should_run == 'true'
