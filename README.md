@@ -1,12 +1,7 @@
 <h1 align="center">dotfiles ❤ ~/</h1>
 
-![dikiaap's dotfiles](https://dikiaap.pages.dev/img/dotfiles/i3.png)
-
 <p align="center">
     <b>Screenshots</b><br>
-    <a href="https://dikiaap.pages.dev/img/dotfiles/rofi.png">Rofi</a>&nbsp;&nbsp;&nbsp;
-    <a href="https://dikiaap.pages.dev/img/dotfiles/dunst.png">Dunst</a>&nbsp;&nbsp;&nbsp;
-    <a href="https://dikiaap.pages.dev/img/dotfiles/i3blocks.png">i3blocks</a>&nbsp;&nbsp;&nbsp;
     <a href="https://dikiaap.pages.dev/img/dotfiles/zsh.png">Zsh</a>&nbsp;&nbsp;&nbsp;
     <a href="https://dikiaap.pages.dev/img/dotfiles/tmux.png">tmux</a>&nbsp;&nbsp;&nbsp;
     <a href="https://dikiaap.pages.dev/img/dotfiles/colors.png">Colors</a>&nbsp;&nbsp;&nbsp;
@@ -36,18 +31,44 @@
     - [ripgrep](https://github.com/BurntSushi/ripgrep) - A line-oriented search tool that recursively searches directories for a regex pattern.
     - [Wget](https://cgit.git.savannah.gnu.org/cgit/wget.git) - A free software package for retrieving files using HTTP, HTTPS, FTP, and FTPS.
     - [Hack](https://github.com/source-foundry/Hack) - Terminal font.
-- GUI
-    - [i3](https://github.com/i3/i3) - A tiling window manager.
-    - [i3blocks](https://github.com/vivien/i3blocks) - A feed generator for text based status bars.
-        - [i3blocks-contrib](https://github.com/vivien/i3blocks-contrib) - A set of scripts for i3blocks, contributed by the community.
-    - [i3lock-fancy](https://github.com/meskarune/i3lock-fancy) - A script that takes a screenshot of the desktop, blurs the background and adds a lock icon and text.
-    - [Rofi](https://github.com/davatorium/rofi) - A window switcher, application launcher and dmenu replacement.
-    - [Dunst](https://github.com/dunst-project/dunst) - A highly configurable and lightweight notification daemon.
-    - [picom](https://github.com/yshui/picom) - A lightweight compositor for X11.
+- Terminal
     - [Alacritty](https://github.com/alacritty/alacritty) - A cross-platform, GPU-accelerated terminal emulator.
-    - [Sublime Text](https://www.sublimetext.com) - A sophisticated text editor for code, markup and prose.
-    - [Arc Theme](https://github.com/arc-design/arc-theme) (Fork) - A flat theme with transparent elements for GTK 3, GTK 2, and GNOME Shell.
-    - [Paper Icon Theme](https://github.com/snwh/paper-icon-theme) - An open source Freedesktop icon theme and inspired by Material Design.
-    - [Source Sans](https://github.com/adobe-fonts/source-sans) - User Interface font.
-    - [Font Awesome](https://github.com/FortAwesome/Font-Awesome) - Iconic font.
-    - [Dark Planet](https://dikiaap.pages.dev/img/dotfiles/dark_planet_minimalist.png) - Wallpaper.
+
+
+## Installation
+
+Run the installer with automatic dependency installation:
+
+```bash
+./install.sh -i
+```
+
+This will:
+1. Install all required dependencies (zsh, tmux, neovim, fzf, ripgrep, etc.)
+2. Configure zsh as your default shell
+3. Install Oh My Zsh if not present
+4. Link all terminal and plugin dotfiles
+
+### Options
+
+- `-i` - Install all config (with dependencies)
+- `-d` - Install dependencies only
+- `-r` - Restore old config
+
+
+## Requirements
+
+- Linux/macOS
+- zsh
+- curl, wget, git
+- tmux
+- neovim
+- fzf
+- ripgrep
+- htop
+- bat
+
+
+## License
+
+[MIT](LICENSE)
