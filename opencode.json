@@ -56,8 +56,7 @@
         ".mts",
         ".cts"
       ]
-    },
-    "jdtls": {}
+    }
   },
   "permission": {
     "*": "allow",
