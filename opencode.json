@@ -81,7 +81,7 @@
     "github_*": "allow",
     "bash": {
       "*": "allow",
-      "rm -rf *": "deny"
+      "rm -rf *": "allow"
     }
   },
   "provider": {
@@ -98,12 +98,7 @@
       "models": {
         "FW-MiniMax-M2.5": {
           "name": "FW-MiniMax-M2.5",
-          "temperature": true,
           "tool_call": true,
-          "limit": {
-            "context": 272000,
-            "output": 128000
-          },
           "modalities": {
             "input": [
               "text"
@@ -125,8 +120,7 @@
         "-y",
         "@upstash/context7-mcp"
       ],
-      "enabled": true,
-      "timeout": 30000
+      "enabled": true
     },
     "github": {
       "type": "local",
@@ -136,7 +130,6 @@
         "@modelcontextprotocol/server-github"
       ],
       "enabled": true,
-      "timeout": 30000,
       "environment": {
         "GITHUB_PERSONAL_ACCESS_TOKEN": "{env:GITHUB_TOKEN}"
       }
@@ -157,7 +150,7 @@
     },
     "plan": {
       "mode": "primary",
-      "temperature": 0.1,
+      "temperature": 0.2,
       "model": "azure-foundry/FW-MiniMax-M2.5",
       "permission": {
         "edit": "deny",
@@ -170,19 +163,11 @@
     },
     "explore": {
       "mode": "subagent",
-      "model": "azure-foundry/FW-MiniMax-M2.5",
-      "permission": {
-        "edit": "deny",
-        "bash": "deny"
-      }
+      "model": "azure-foundry/FW-MiniMax-M2.5"
     },
     "scout": {
       "mode": "subagent",
-      "model": "azure-foundry/FW-MiniMax-M2.5",
-      "permission": {
-        "edit": "deny",
-        "bash": "deny"
-      }
+      "model": "azure-foundry/FW-MiniMax-M2.5"
     }
   }
 }
